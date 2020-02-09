@@ -1,7 +1,7 @@
 'use strict';
 
 require('dotenv').config();
-const mongoose = require('mongoos');
+const mongoose = require('mongoose');
 
 const mongooseOptions = {
   useNewUrlParser: true,

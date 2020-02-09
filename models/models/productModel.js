@@ -1,7 +1,7 @@
 'use strict';
 
 const Model = require('./mongoModel');
-const schema = require('..schema/productSchema');
+const schema = require('../schema/productSchema');
 /**
  * @class
  */

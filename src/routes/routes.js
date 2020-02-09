@@ -5,7 +5,7 @@ const router = express.Router();
 
 const Categories = require('../../models/models/categoryModel');
 const categories = new Categories();
-const Products = require('../../models/models/productModelproductModel');
+const Products = require('../../models/models/productModel');
 const products = new Products();
 
 // Esoteric Resources
