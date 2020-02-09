@@ -1,5 +1,5 @@
 {
-  "name": "api-server-solution",
+  "name": "apprenti_401_lab_15",
   "version": "1.0.0",
   "description": "### Author:",
   "main": "index.js",
@@ -14,11 +14,10 @@
     "jsdoc": "jsdoc -c ./docs/config/jsdoc.config.json"
   },
   "keywords": [],
-  "author": "David Vloedman",
+  "author": "Lindsay Peltier",
   "license": "ISC",
   "dependencies": {
     "@code-fellows/supergoose": "^1.0.1",
-    "@david-vloedman/mymongomodel": "^1.0.0",
     "bcrypt": "^3.0.7",
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
