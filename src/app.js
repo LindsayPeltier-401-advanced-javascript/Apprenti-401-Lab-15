@@ -17,9 +17,9 @@ app.use(express.urlencoded({ extended: true }));
 app.use(userRoutes);
 app.use(routes);
 
-const swaggerUi = require('swagger-ui-express');
-const swaggerDocument = require('../docs/config/swagger.json');
-app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(swaggerDocument));
+// const swaggerUi = require('swagger-ui-express');
+// const swaggerDocument = require('../docs/config/swagger.json');
+// app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(swaggerDocument));
 
 
 module.exports = {
