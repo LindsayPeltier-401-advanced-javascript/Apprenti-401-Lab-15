@@ -2,7 +2,7 @@
 # LAB - 15
 ## Authenticated API server
 
-### Author: 
+### Author: Lindsay Peltier
 
 ### Links and Resources
 
